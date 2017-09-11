@@ -5,8 +5,12 @@ Amateur application for study purposes.
 
 ## Build and Run
 
-work in progress
+```
+> npm install
+> npm start
+```
 
 ## Technologies
 
-work in progress
+* React.js
+...
