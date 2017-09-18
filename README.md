@@ -13,4 +13,5 @@ Amateur application for study purposes.
 ## Technologies
 
 * React.js
-...
+* [axios](https://github.com/mzabriskie/axios)
+* ...
